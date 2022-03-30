@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYR+LsMe3VEVzuhHhWkYrvCsl8Mq4UktJQqug8vBTFU31Owj1TNXhywHllzPv/hlSmMVpFEJNY4gU32jU0yOCA==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio\\netmentor\\Proyecto-palabra\\Proyecto-palabra\\Proyecto-palabra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

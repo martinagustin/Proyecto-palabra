@@ -1,0 +1,16 @@
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\Proyecto-palabra.exe
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\Proyecto-palabra.deps.json
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\Proyecto-palabra.runtimeconfig.json
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\Proyecto-palabra.runtimeconfig.dev.json
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\Proyecto-palabra.dll
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\ref\Proyecto-palabra.dll
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\bin\Debug\net5.0\Proyecto-palabra.pdb
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.csproj.AssemblyReference.cache
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.AssemblyInfoInputs.cache
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.AssemblyInfo.cs
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.csproj.CoreCompileInputs.cache
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.dll
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\ref\Proyecto-palabra.dll
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.pdb
+D:\VisualStudio\netmentor\Proyecto-palabra\Proyecto-palabra\obj\Debug\net5.0\Proyecto-palabra.genruntimeconfig.cache
